@@ -1,4 +1,4 @@
-Assume that our ResultSet represent such columns. 
+Suppose that our ResultSet represent such columns. 
 These columns selected from some joins of tables(payment,user,company) and these columns are in one query result:
 id,payment_date,payment_amount, user_id,user_name, user_surname, company_id, company_name 
         
